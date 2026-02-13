@@ -98,7 +98,22 @@ apt update && apt upgrade && apt install tur-repo && apt install git tor privoxy
 ### [TERMUX] Packege Install Comments
 
 ```
+pkg update && pkg upgrade -y
+```
+```
+pkg install proot-distro -y
+```
+```
+proot-distro install ubuntu
+```
+```
+proot-distro login ubuntu
+```
+```
 apt update && apt upgrade -y
+```
+```
+apt install tor
 ```
 ```
 apt install tur-repo -y
