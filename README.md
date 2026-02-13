@@ -87,8 +87,7 @@ This tool is developed and maintained by **R.K.A.**
 - 🌐 Based in India, building open hacking labs for everyone.
 
 ---
-![Instagram Image ](https://raw.githubusercontent.com/thakur2309/IP-HOPPRR-/refs/heads/main/Screenshot_2025_0628_081718.jpg)
-
+<img src="https://i.postimg.cc/904yyZ5v/Screenshot-2026-02-13-16-20-19-858-com-termux.png" width="100%" height="auto">
 <h3 align="center"> Preview!</h3>
 
 ### Termux Full Install and Setup 
