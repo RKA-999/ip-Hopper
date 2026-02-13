@@ -1,13 +1,13 @@
-# 🔁 iP-Hopper
+# 🔁 ip-Hopper
 
-**iP-Hopper** is an advanced IP rotation tool designed for ethical hackers, privacy enthusiasts, and cybersecurity learners.  
+**ip-Hopper** is an advanced ip rotation tool designed for ethical hackers, privacy enthusiasts, and cybersecurity learners.  
 It works by launching multiple Tor nodes in parallel and routing traffic through a centralized Privoxy proxy server — enabling users to automatically change their public IP address at customizable intervals.
 
 Whether you're conducting anonymous security research or learning how anonymization networks like Tor work, IPHopper provides a lightweight and powerful CLI-based solution — especially built for **Termux** and **Linux-based systems**.
 
 ---
 
-## 🎯 Purpose of iP-Hopper
+## 🎯 Purpose of ip-Hopper
 
 When working in the cybersecurity field or doing web reconnaissance, constantly changing your IP address can help avoid detection, rate-limiting, and geo-restrictions.  
 Most users rely on VPNs, but VPNs are centralized services and not always transparent. Tor, on the other hand, offers a decentralized and free solution for anonymity.
@@ -113,7 +113,7 @@ proot-distro login ubuntu
 apt update && apt upgrade -y
 ```
 ```
-apt install tor
+apt install tor -y
 ```
 ```
 apt install tur-repo -y
