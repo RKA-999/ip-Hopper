@@ -83,7 +83,7 @@ This tool is developed and maintained by **R.K.A.**
 ## 🧑‍💻 Author Info
 
 - 👨‍💻 **R.K.A.**
-- 🔗 [GitHub: @Thakur](https://github.com/rka-999)
+- 🔗 [GitHub: @R.K.A](https://github.com/rka-999)
 - 🌐 Based in India, building open hacking labs for everyone.
 
 ---
